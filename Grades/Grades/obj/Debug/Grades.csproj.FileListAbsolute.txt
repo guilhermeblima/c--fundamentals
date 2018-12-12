@@ -1,0 +1,6 @@
+C:\Users\glima\Documents\repository\c#-fundamentals\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\glima\Documents\repository\c#-fundamentals\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\glima\Documents\repository\c#-fundamentals\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\glima\Documents\repository\c#-fundamentals\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Users\glima\Documents\repository\c#-fundamentals\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\glima\Documents\repository\c#-fundamentals\Grades\Grades\obj\Debug\Grades.pdb
